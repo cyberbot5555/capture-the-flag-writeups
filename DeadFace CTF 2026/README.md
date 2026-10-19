@@ -1,7 +1,6 @@
 # DeadFace CTF 2026 - Mobile Challenge Writeup
 
-📄 **A detailed PDF version of this writeup is available here: [Writeup PDF](./writeup.pdf)** 
-*(Note: Rename your uploaded PDF file to `writeup.pdf` or update this link accordingly)*
+📄 **A detailed PDF version of this writeup is available here: [Writeup PDF](./Write-up.pdf)
 
 ## Challenge Information
 
